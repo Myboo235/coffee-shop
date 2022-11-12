@@ -19,6 +19,7 @@
     text-decoration: none;
     text-transform: capitalize;
     transition: .2s linear;
+    overflow-x:hidden;
 }
 /* refresh css end*/
 html {
